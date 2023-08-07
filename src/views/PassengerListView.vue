@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import PassengerCard from '@/components/PassengerCard.vue'
+import PassengerCard from '@/components/passengerCard.vue'
 import type { Passenger } from '@/type'
 import { ref, watchEffect } from 'vue'
 import type { Ref } from 'vue'
